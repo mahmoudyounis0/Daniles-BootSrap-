@@ -722,3 +722,7 @@ footer{
     color: #668182;
     font-size: 14px;
 }
+/* some changes*/
+.navbar-toggler:focus {
+     box-shadow: 0 0 0 ; 
+}

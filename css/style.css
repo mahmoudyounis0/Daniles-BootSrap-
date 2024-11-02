@@ -726,3 +726,7 @@ footer{
 .navbar-toggler:focus {
      box-shadow: 0 0 0 ; 
 }
+.portfolio div .active {
+ border: none; 
+
+}
